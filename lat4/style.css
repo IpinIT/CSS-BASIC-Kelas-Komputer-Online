@@ -1,0 +1,19 @@
+body{
+    
+    background-color: lightblue;
+    /* website gambar patter = subtlepatterns.com */
+    background-image: url(../asset/naruto2.jpeg);
+    /* 
+    gambar akan ditampilkan looping(berpola mengulang smpai mengisi
+    repeat=hanya diulang pd sumbu yang diinginkan
+    jika hanya ingin 1 gambar atau tidak berpola maka memakai no-repeat
+    */
+    background-repeat: no-repeat;
+    /* kalau pakai no repeat bsa pakai background position */
+    background-position: top center;
+
+    
+     /* contoh format jika ingin 1 line */
+     /*background: url(../asset/naruto1.jpeg) green no-repeat top center;*/
+    }
+}

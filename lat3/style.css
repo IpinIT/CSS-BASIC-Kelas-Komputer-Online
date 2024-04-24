@@ -1,0 +1,30 @@
+/* belajar text style */
+h1{
+    font-size: 150px;
+    color: skyblue;
+    text-decoration: line-through ;
+}
+h2{
+    font-size: 100px;
+    /* 
+        color bisa ambil dari photoshop
+        atau bisa kunjungi colorpicker
+     */
+    color: #ababca;
+}
+h3{
+    font-size: 75px;
+    color: rgb(11,225,212);
+    text-transform: uppercase;
+    /* spasi antar jarak */
+    letter-spacing: 20px;
+}
+p{
+    /* jarak antar text */
+    text-indent: 100px;
+    /* text diubah jd kapital dll */
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}
